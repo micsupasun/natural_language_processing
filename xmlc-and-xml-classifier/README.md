@@ -17,31 +17,23 @@ This is step of work in this project
 11. one hot encoding label with MultiLabelBinarizer
 12. train test split
 13. train multiple models and mutiple datasets
-14. metric performance with accuracy and confusion matrix 
+14. metric performance with f1-score, hamming loss and confusion matrix 
 
 
 # Result
 This project use 10 models to train model including
 
 1. Logistic Regression
-
 2. Random Forest
-
 3. Naive Bayes
-
 4. Decision Tree
-
 5. K-nearest neighbors
-
 6. SVC
-
 7. XGBoost
-
 8. SGD
-
 9. Multilayer Perceptron
-
 10. Extra Trees
 
-and 2 datasets: Pebmed and Econbiz
-The most accuracy is CNN in pebmed dataset and naive bayes in econbiz dataset
+In addition, i work with 2 datasets 2: Pebmed and Econbiz
+The most f1-score are Naive Bayes in pebmed dataset with 24.078 percent and CNN in econbiz dataset with 38.8 percent
+the less hamming loss are Multilayer Perceptron in pebmed dataset with 0.5352 and Decision tree in econbiz dataset with 0.6371 percent
