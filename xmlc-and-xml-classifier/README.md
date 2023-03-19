@@ -38,4 +38,4 @@ In addition, i work with 2 datasets 2: Pebmed and Econbiz
 
 The most f1-score are Naive Bayes in pebmed dataset with 24.078 percent and CNN in econbiz dataset with 38.8 percent
 
-the less hamming loss are Multilayer Perceptron in pebmed dataset with 0.5352 and Decision tree in econbiz dataset with 0.6371 percent
+the less hamming loss are Multilayer Perceptron in pebmed dataset with 0.5352 percent and Decision tree in econbiz dataset with 0.6371 percent
