@@ -1,3 +1,6 @@
+# Problem
+we want to create word sentences and sequence sentences in the dictionary for use in the Natural Language Processing field
+
 # Solution
 Create a dictionary that combines word sentences and sequence sentences
 
