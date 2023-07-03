@@ -1,3 +1,6 @@
+# Project
+word sentences and sequence sentences in the dictionary
+
 # Problem
 we want to create word sentences and sequence sentences in the dictionary for use in the Natural Language Processing field
 
