@@ -1,5 +1,5 @@
 # Project
-Create a dictionary word with the tokenizer
+Create word sentences and sequence sentences with a dictionary
 
 # Solution
 Create a dictionary that combines word sentences and sequence sentences
