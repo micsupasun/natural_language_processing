@@ -8,18 +8,30 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 
 1. Transformer
 - custom BERT NLP
-  -   [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
-  -   [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
-
+  -   [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for work on Text Classification and Thai Question Answering
+  -   [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_nlp/README.md) generate Bert NLP model for work in another task
+- PythaiNLP
+ - [document classification with 3 project](https://github.com/micsupasun/natural_language_processing/blob/main/document_classification/README.md) predict document classification with 3 project(word cloud, Latent Dirichlet Allocation, Sentiment Analysis)
 
 # Project
 1. Text Classification
- - [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
+ - [Custom Bert NLP for Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for work on Text Classification.
 2. Question Answering
- - [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
+ - [Custom Bert NLP for Question Answering](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for Question Answering
 3. Gerate Bert model
- - [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
+ - [Train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_nlp/README.md) generate Bert NLP model for work in another task
+ 4. document classification
+ - Word Cloud
+  - [Document classification with Word Cloud](https://github.com/micsupasun/natural_language_processing/blob/main/document_classification/README.md) Generate a word cloud visualization to visually represent the frequency or importance of words in the text, aiding in identifying key themes or topics.
+ - Latent Dirichlet Allocation
+  - [Document classification with Latent Dirichlet Allocation](https://github.com/micsupasun/natural_language_processing/blob/main/document_classification/README.md) Apply LDA, a probabilistic model, to automatically discover underlying topics in a document corpus, enabling unsupervised document classification based on topic distributions.
+ - Sentiment Analysis
+  - [Document classification with Sentiment Analysis](https://github.com/micsupasun/natural_language_processing/blob/main/document_classification/README.md) employ sentiment analysis techniques to classify text into positive, negative, or neutral sentiment categories, enabling automated sentiment classification for decision-making or opinion analysis.
+ 
 
+
+
+ <!-- - []()  -->
 
 
 <!-- [Requirement](https://github.com/micsupasun/university_of_essex/blob/main/group_project/Team_4_project_report.pdf) is the Software Requirements Specification project
