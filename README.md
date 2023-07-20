@@ -7,9 +7,9 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 # All of process
 
 Transformer
-    - custom BERT NLP
-        - [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
-        - [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
+    -  custom BERT NLP
+        -   [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
+        -   [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
 
 
 
