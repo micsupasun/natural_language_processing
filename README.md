@@ -8,10 +8,11 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 
 1. Transformer
 - custom BERT NLP
-  -   [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for work on Text Classification and Thai Question Answering
-  -   [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_nlp/README.md) generate Bert NLP model for work in another task
+  -   [Custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for work on Text Classification and Thai Question Answering
+  -   [Train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_nlp/README.md) generate Bert NLP model for work in another task
+2. Clean data with thai word
 - PythaiNLP
-  - [document classification with 3 project](https://github.com/micsupasun/natural_language_processing/blob/main/document_classification/README.md) predict document classification with 3 project(word cloud, Latent Dirichlet Allocation, Sentiment Analysis)
+  - [Document classification with 3 project](https://github.com/micsupasun/natural_language_processing/blob/main/document_classification/README.md) predict document classification with 3 project(word cloud, Latent Dirichlet Allocation, Sentiment Analysis)
 
 # Project
 1. Text Classification
@@ -28,7 +29,7 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
  - Sentiment Analysis
    - [Document classification with Sentiment Analysis](https://github.com/micsupasun/natural_language_processing/blob/main/document_classification/README.md) employ sentiment analysis techniques to classify text into positive, negative, or neutral sentiment categories, enabling automated sentiment classification for decision-making or opinion analysis.
  
-
+<!-- work name entity -->
 
 
  <!-- - []()  -->
