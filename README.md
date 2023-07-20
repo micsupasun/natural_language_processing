@@ -6,33 +6,21 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 
 # All of process
 
-Transformer
-    -  custom BERT NLP
-        -   [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
-        -   [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
-
+1. Transformer
+- custom BERT NLP
+  -   [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
+  -   [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
 
 
 # Project
-Text Classification
-    - [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
-Question Answering
-    - [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
-Gerate Bert model
-    - [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
+1. Text Classification
+ - [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
+2. Question Answering
+ - [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
+3. Gerate Bert model
+ - [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
 
 
-- Item 1
-- Item 2
-- Item 3
-  - Sub Item 1
-  - Sub Item 2
-
-* Item 1
-* Item 2
-* Item 3
-  * Sub Item A
-  * Sub Item B
 
 <!-- [Requirement](https://github.com/micsupasun/university_of_essex/blob/main/group_project/Team_4_project_report.pdf) is the Software Requirements Specification project
 
