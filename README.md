@@ -13,13 +13,15 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 2. Clean data with thai word
 - PythaiNLP
   - [Document classification with 3 project](https://github.com/micsupasun/natural_language_processing/blob/main/document_classification/README.md) predict document classification with 3 project(word cloud, Latent Dirichlet Allocation, Sentiment Analysis)
+3. 
+
 
 # Project
 1. Text Classification
  - [Custom Bert NLP for Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for work on Text Classification.
 2. Question Answering
  - [Custom Bert NLP for Question Answering](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for Question Answering
-3. Gerate Bert model
+3. Gerate Transformer
  - [Train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_nlp/README.md) generate Bert NLP model for work in another task
  4. document classification
  - Word Cloud
@@ -28,8 +30,12 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
    - [Document classification with Latent Dirichlet Allocation](https://github.com/micsupasun/natural_language_processing/blob/main/document_classification/README.md) Apply LDA, a probabilistic model, to automatically discover underlying topics in a document corpus, enabling unsupervised document classification based on topic distributions.
  - Sentiment Analysis
    - [Document classification with Sentiment Analysis](https://github.com/micsupasun/natural_language_processing/blob/main/document_classification/README.md) employ sentiment analysis techniques to classify text into positive, negative, or neutral sentiment categories, enabling automated sentiment classification for decision-making or opinion analysis.
- 
-<!-- work name entity -->
+5. Named Entity Recognition
+ - [named entity recognition with nltk](https://github.com/micsupasun/natural_language_processing/blob/main/named_entity_recognition/README.md) develop a system that can automatically identify and classify named entities in English word in sentence.
+ - [named entity recognition with spacy](https://github.com/micsupasun/natural_language_processing/blob/main/named_entity_recognition/README.md) develop a system that can automatically identify and classify named entities in English word in sentence.
+ - [named entity recognition with BERT NLP](https://github.com/micsupasun/natural_language_processing/blob/main/named_entity_recognition/README.md) develop a system that can automatically identify and classify named entities in English word in sentence.
+ - [named entity recognition with PyThaiNLP](https://github.com/micsupasun/natural_language_processing/blob/main/named_entity_recognition/README.md) develop a system that can automatically identify and classify named entities in thai word in sentence.
+
 
 
  <!-- - []()  -->
