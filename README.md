@@ -22,7 +22,17 @@ Gerate Bert model
     - [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
 
 
+- Item 1
+- Item 2
+- Item 3
+  - Sub Item 1
+  - Sub Item 2
 
+* Item 1
+* Item 2
+* Item 3
+  * Sub Item A
+  * Sub Item B
 
 <!-- [Requirement](https://github.com/micsupasun/university_of_essex/blob/main/group_project/Team_4_project_report.pdf) is the Software Requirements Specification project
 
