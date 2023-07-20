@@ -6,15 +6,30 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 
 # All of process
 
-# Project
-# Assignment File
+Transformer
+    - custom BERT NLP
+        - [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
+        - [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
 
-[Requirement](https://github.com/micsupasun/university_of_essex/blob/main/group_project/Team_4_project_report.pdf) is the Software Requirements Specification project
+
+
+# Project
+Text Classification
+    - [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
+Question Answering
+    - [custom Bert NLP for two project](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_2_project) is custom Bert NLP for work on Text Classification and Thai Question Answering
+Gerate Bert model
+    - [train Bert NLP model for another task](https://github.com/micsupasun/natural_language_processing/tree/main/custom_bert_nlp/custom_bert_nlp) generate Bert NLP model for work in another task
+
+
+
+
+<!-- [Requirement](https://github.com/micsupasun/university_of_essex/blob/main/group_project/Team_4_project_report.pdf) is the Software Requirements Specification project
 
 [Flowchart](https://github.com/micsupasun/university_of_essex/blob/main/group_project/ai_team_diagram.drawio.png) is the flowchart project
 
 This is all the task in group project including:
-![the diagram in this project](https://github.com/micsupasun/computer_vision/blob/main/assistant_blind/ai_team_diagram.drawio.png)
+![the diagram in this project](https://github.com/micsupasun/computer_vision/blob/main/assistant_blind/ai_team_diagram.drawio.png) -->
 
 
 
