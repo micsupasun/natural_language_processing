@@ -6,8 +6,8 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 
 # Project
 1. Text Classification
- - [Extreme Multilabel Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/xmlc-and-xml-classifier/README.md) can solve automatic tagging and recommendation systems of web-scale documents which have enormous data in output, many label, and imbalanced distribution.
- <!-- - [multi-label text classification with news categories]() -->
+ - [Extreme Multi-label Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/xmlc-and-xml-classifier/README.md) can solve automatic tagging and recommendation systems of web-scale documents which have enormous data in output, many label, and imbalanced distribution.
+ - [multi-label text classification with news categories](https://github.com/micsupasun/natural_language_processing/blob/main/multi_label_text_classifation_news/README.md) predict Multi-label text classification with news categories we can predict Multi-label text classification with news categories.
  - [Custom Bert NLP for Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for work on Text Classification.
 2. Question Answering
  - [Custom Bert NLP for Question Answering](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for Question Answering
@@ -52,17 +52,5 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
  - [all types of word sentence representation](https://github.com/micsupasun/natural_language_processing/blob/main/word_sentence_representation/word_sentence_representation/README.md) can separate word in sentence with One hot encoding(bag of words), Count Vectorizer, TF-IDF, Word Embedding, Word2Vec
 
 # in progress project
-1. Text Classification with news
-2. publish paper(Enhancing and Comparative Analysis of Speech Emotion Recognition Across Diverse Datasets and Models). The code is complete, but I can't publish the code before its published paper is published in the next few months.
-3. tweet 3 project.
-
-
-
-
-
-
-
-
-
-
-
+1. publish a paper(Enhancing and Comparative Analysis of Speech Emotion Recognition Across Diverse Datasets and Models). The code is complete, but I cannot publish the code before its published paper is published in the next few months.
+2. tweet 3 project.
