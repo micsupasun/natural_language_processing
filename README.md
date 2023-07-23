@@ -6,7 +6,8 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 
 # Project
 1. Text Classification
- - [Extreme Multilabel Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/xmlc-and-xml-classifier/README.md) can solve automatic tagging and recommendation systems of web-scale documents which have enormous data in output, many label, and imbalanced distribution
+ - [Extreme Multilabel Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/xmlc-and-xml-classifier/README.md) can solve automatic tagging and recommendation systems of web-scale documents which have enormous data in output, many label, and imbalanced distribution.
+ <!-- - [multi-label text classification with news categories]() -->
  - [Custom Bert NLP for Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for work on Text Classification.
 2. Question Answering
  - [Custom Bert NLP for Question Answering](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for Question Answering
@@ -52,18 +53,10 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 
 # in progress project
 1. Text Classification with news
-2. text to speech
-3. machine translation
-4. speech to Text
+2. publish paper(Enhancing and Comparative Analysis of Speech Emotion Recognition Across Diverse Datasets and Models). The code is complete, but I can't publish the code before its published paper is published in the next few months.
+3. tweet 3 project.
 
- <!-- - []()  -->
 
-<!-- [Requirement](https://github.com/micsupasun/university_of_essex/blob/main/group_project/Team_4_project_report.pdf) is the Software Requirements Specification project
-
-[Flowchart](https://github.com/micsupasun/university_of_essex/blob/main/group_project/ai_team_diagram.drawio.png) is the flowchart project
-
-This is all the tasks in the group project, including:
-![the diagram in this project](https://github.com/micsupasun/computer_vision/blob/main/assistant_blind/ai_team_diagram.drawio.png) -->
 
 
 
