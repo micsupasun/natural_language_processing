@@ -9,7 +9,7 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
  - [Extreme Multi-label Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/xmlc-and-xml-classifier/README.md) can solve automatic tagging and recommendation systems of web-scale documents which have enormous data in output, many label, and imbalanced distribution.
  - [multi-label text classification with news categories](https://github.com/micsupasun/natural_language_processing/blob/main/multi_label_text_classifation_news/README.md) predict Multi-label text classification with news categories we can predict Multi-label text classification with news categories.
  - [Custom Bert NLP for Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for work on Text Classification.
- - [text classification in Twitter application](testtttttt) visualization, text representation, and prediction text classification in the Twitter application about Coronavirus.
+ - [text classification in Twitter application](https://github.com/micsupasun/natural_language_processing/blob/main/text_classification_coronavirus_tweets/README.md) visualization, text representation, and prediction text classification in the Twitter application about Coronavirus.
 2. Question Answering
  - [Custom Bert NLP for Question Answering](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for Question Answering
 3. Generate Transformer
@@ -55,4 +55,3 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 
 # in progress project
 1. publish a paper(Enhancing and Comparative Analysis of Speech Emotion Recognition Across Diverse Datasets and Models). The code is complete, but I cannot publish the code before its published paper is published in the next few months.
-2. tweet 3 project.
