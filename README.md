@@ -9,6 +9,7 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
  - [Extreme Multi-label Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/xmlc-and-xml-classifier/README.md) can solve automatic tagging and recommendation systems of web-scale documents which have enormous data in output, many label, and imbalanced distribution.
  - [multi-label text classification with news categories](https://github.com/micsupasun/natural_language_processing/blob/main/multi_label_text_classifation_news/README.md) predict Multi-label text classification with news categories we can predict Multi-label text classification with news categories.
  - [Custom Bert NLP for Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for work on Text Classification.
+ - [text classification in Twitter application](testtttttt) visualization, text representation, and prediction text classification in the Twitter application about Coronavirus.
 2. Question Answering
  - [Custom Bert NLP for Question Answering](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for Question Answering
 3. Generate Transformer
@@ -37,7 +38,7 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
 8. Sentiment analysis
  - [Sentiment analysis with bert nlp](https://github.com/micsupasun/natural_language_processing/blob/main/sentiment_analysis/sentiment_analysis_bert_nlp/README.md) Predicting Text Sentimental Analysis with BERT
  - [Sentiment analysis with IMDB dataset](https://github.com/micsupasun/natural_language_processing/blob/main/sentiment_analysis/imdb_sentiment_analysis/README.md) improve my skill in Sentiment analysis classification(cleansing data,working word embedding with tfidfvectorizer, predict multiple classification model, Improve accuracy model by fine-tuning parameter)
-9. text_preprocessing
+9. text preprocessing
  - [Basic regular expression](https://github.com/micsupasun/natural_language_processing/blob/main/text_preprocessing/basic_regular_expression/README.md) identify specific patterns or structures we want to extract or clean in the text data. 
  - [text preprocessing before train Natural Language Processing](https://github.com/micsupasun/natural_language_processing/blob/main/text_preprocessing/text_preprocessing/README.md) clean words in sentences before training Natural Language Processing model
 10. Text to Speech
@@ -50,6 +51,7 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
  - [word sentences and sequence sentences in the dictionary](https://github.com/micsupasun/natural_language_processing/blob/main/word_sentence_representation/create_dictionary_word_with_tokenizer/README.md) create a dictionary that combines word sentences and sequence sentences
  - [Thai word segmentation](https://github.com/micsupasun/natural_language_processing/blob/main/word_sentence_representation/thai_word_segmentation/README.md) separate Thai words from the sentence with Dictionary based and CNN based.
  - [all types of word sentence representation](https://github.com/micsupasun/natural_language_processing/blob/main/word_sentence_representation/word_sentence_representation/README.md) can separate word in sentence with One hot encoding(bag of words), Count Vectorizer, TF-IDF, Word Embedding, Word2Vec
+
 
 # in progress project
 1. publish a paper(Enhancing and Comparative Analysis of Speech Emotion Recognition Across Diverse Datasets and Models). The code is complete, but I cannot publish the code before its published paper is published in the next few months.
