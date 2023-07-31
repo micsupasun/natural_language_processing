@@ -55,9 +55,9 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
  - [Thai word segmentation](https://github.com/micsupasun/natural_language_processing/blob/main/word_sentence_representation/thai_word_segmentation/README.md) separate Thai words from the sentence with Dictionary based and CNN based.
  - [all types of word sentence representation](https://github.com/micsupasun/natural_language_processing/blob/main/word_sentence_representation/word_sentence_representation/README.md) can separate word in sentence with One hot encoding(bag of words), Count Vectorizer, TF-IDF, Word Embedding, Word2Vec
 13. Soundex
- - [soundex with flask api]() is clean data and connect website in the real world with Flask and use Thai Soundex to recommend similar words to change the word when data is duplicated, such as ID or Username.
+ - [soundex with flask api](https://github.com/micsupasun/natural_language_processing/blob/main/sound_dex_api-flask/README.md) is clean data and connect website in the real world with Flask and use Thai Soundex to recommend similar words to change the word when data is duplicated, such as ID or Username.
 14. Dialogflow
- - [dialogflow in the real world]() is a chatbot automated with Dialogflow in real projects with bridge stone company
+ - [dialogflow in the real world](https://github.com/micsupasun/natural_language_processing/blob/main/dialogflow/README.md) is a chatbot automated with Dialogflow in real projects with bridge stone company
 
 # in progress project
 1. publish a paper(Enhancing and Comparative Analysis of Speech Emotion Recognition Across Diverse Datasets and Models). The code is complete, but I can publish the code after its published paper in the next few months.
