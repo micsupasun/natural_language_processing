@@ -35,8 +35,8 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
  - [scrape data with beautiful soup](https://github.com/micsupasun/natural_language_processing/blob/main/scrape_data/scrape_data_basic_beautiful_soup/README.md) extracting the desired data from the HTML structure. This could include text content, attribute values, links, images, tables, or any other information embedded in the HTML
  - [scrape lottery with beautiful soup](https://github.com/micsupasun/natural_language_processing/blob/main/scrape_data/scrape_data_historical_lotto_beautiful_soup/README.md) extracting and scrape lottery with beautiful soup.
  - [scrape data with selenium](https://github.com/micsupasun/natural_language_processing/blob/main/scrape_data/scrape_data_basic_selenium/README.md) can log in and scrape inside login pages. In addition, selenium can scrape data without HTML tags, but it is slower than beautiful soup. In addition, temp scrape data in pandas
- - [scrape 5 websites in Thai language](https://github.com/micsupasun/natural_language_processing/blob/main/scrape_data/scrape_5_website_es/README.md) is scrape five websites about Thai news websites, including Prachachat, Posttoday, Mthai, Ch3thailand, and Biotechthailand website. Additionally, pull data that I scrape to temp in the Elastic Search database.
- - [scrape 17 websites in Thai and Englist language](https://github.com/micsupasun/natural_language_processing/blob/main/scrape_data/scrape_17_websites/README.md) is scrape 17 websites about English and Thai news websites. In addition, clean data and export in CSV.
+ - [scrape five websites in Thai language](https://github.com/micsupasun/natural_language_processing/blob/main/scrape_data/scrape_5_website_es/README.md) is scrape five websites about Thai news websites, including Prachachat, Posttoday, Mthai, Ch3thailand, and Biotechthailand website. Additionally, pull data that I scrape to temp in the Elastic Search database.
+ - [scrape 17 websites in Thai and English language](https://github.com/micsupasun/natural_language_processing/blob/main/scrape_data/scrape_17_websites/README.md) is scrape 17 websites about English and Thai news websites. In addition, clean data and export in CSV.
 
 8. Sentiment analysis
  - [Sentiment analysis with bert nlp](https://github.com/micsupasun/natural_language_processing/blob/main/sentiment_analysis/sentiment_analysis_bert_nlp/README.md) Predicting Text Sentimental Analysis with BERT
@@ -55,9 +55,9 @@ The Text Analytics Subject at the University of Essex. It makes me interested in
  - [Thai word segmentation](https://github.com/micsupasun/natural_language_processing/blob/main/word_sentence_representation/thai_word_segmentation/README.md) separate Thai words from the sentence with Dictionary based and CNN based.
  - [all types of word sentence representation](https://github.com/micsupasun/natural_language_processing/blob/main/word_sentence_representation/word_sentence_representation/README.md) can separate word in sentence with One hot encoding(bag of words), Count Vectorizer, TF-IDF, Word Embedding, Word2Vec
 13. Soundex
- - [soundex with flask api]() is clean data and connect website in the real world with Flask and use Thai Soundex to recommend similar words to change the word when data duplicate such as ID or Username.
+ - [soundex with flask api]() is clean data and connect website in the real world with Flask and use Thai Soundex to recommend similar words to change the word when data is duplicated, such as ID or Username.
 14. Dialogflow
- - [dialogflow in real world]() is chatbot automated with Dialogflow in real projects with bridge stone company
+ - [dialogflow in the real world]() is a chatbot automated with Dialogflow in real projects with bridge stone company
 
 # in progress project
-1. publish a paper(Enhancing and Comparative Analysis of Speech Emotion Recognition Across Diverse Datasets and Models). The code is complete, but I cannot publish the code before its published paper is published in the next few months.
+1. publish a paper(Enhancing and Comparative Analysis of Speech Emotion Recognition Across Diverse Datasets and Models). The code is complete, but I can publish the code after its published paper in the next few months.
