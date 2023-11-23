@@ -65,4 +65,4 @@ Regarding document classification, my proficiency in applying Latent Dirichlet A
  - [dialogflow in the real world](https://github.com/micsupasun/natural_language_processing/blob/main/dialogflow/README.md) is a chatbot automated with Dialogflow in real projects with bridge stone company
 
 # in progress project
-1. publish a paper(Enhancing and Comparative Analysis of Speech Emotion Recognition Across Diverse Datasets and Models). The code is complete, but I can publish the code after its published paper in the next few months.
+1. publish a paper(Experimental Analysis of Speech Emotion and Gender Recognition). The code is complete, but I can publish the code after its published paper in the next few months.
