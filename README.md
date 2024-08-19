@@ -63,6 +63,7 @@ Regarding document classification, my proficiency in applying Latent Dirichlet A
  - [soundex with flask api](https://github.com/micsupasun/natural_language_processing/blob/main/sound_dex_api-flask/README.md) is clean data and connect website in the real world with Flask and use Thai Soundex to recommend similar words to change the word when data is duplicated, such as ID or Username.
 14. Dialogflow
  - [dialogflow in the real world](https://github.com/micsupasun/natural_language_processing/blob/main/dialogflow/README.md) is a chatbot automated with Dialogflow in real projects with bridge stone company
+15. [text_retrieval_system](https://github.com/micsupasun/natural_language_processing/tree/main/text_retrieval_system) is to design a text retrieval system that can recommend movies or shows based on their descriptions. The system will be trained using a dataset of movie/show descriptions and will identify the top three most similar titles to a given input description from a test set.
 
 <!-- # in progress project
 1. publish a paper(Experimental Analysis of Speech Emotion and Gender Recognition). The code is complete, but I can publish the code after its published paper in the next few months. -->
