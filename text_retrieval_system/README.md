@@ -26,6 +26,6 @@ The objective of the project is to design a text retrieval system that can recom
 2. The system's performance will be evaluated and discussed in the presentation, along with the challenges faced and the improvements made during the development process.
 
 ## Documentation
-1. train.csv: Contains the training data with columns for title and description. This file will be used to train the text retrieval system.
-2. test.csv: Contains the test data with columns for title and description. This file will be used to evaluate the system's performance.
-3. text_retrieval_system.ipynb: A Jupyter notebook containing the Python code implementing the text retrieval system. It includes all steps from data loading, preprocessing, and TF-IDF calculation to similarity computation and retrieval of results.
+1. [train.csv](https://github.com/micsupasun/natural_language_processing/blob/main/text_retrieval_system/train.csv): Contains the training data with columns for title and description. This file will be used to train the text retrieval system.
+2. [test.csv](https://github.com/micsupasun/natural_language_processing/blob/main/text_retrieval_system/test.csv): Contains the test data with columns for title and description. This file will be used to evaluate the system's performance.
+3. [text_retrieval_system.ipynb](https://github.com/micsupasun/natural_language_processing/blob/main/text_retrieval_system/text_retrieval_system.ipynb): A Jupyter notebook containing the Python code implementing the text retrieval system. It includes all steps from data loading, preprocessing, and TF-IDF calculation to similarity computation and retrieval of results.
