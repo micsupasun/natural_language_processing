@@ -11,7 +11,7 @@ Regarding document classification, my proficiency in applying Latent Dirichlet A
 
 # Project
 1. Text Classification
- - 1.1. [Extreme Multi-label Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/xmlc-and-xml-classifier/README.md) can solve automatic tagging and recommendation systems of web-scale documents which have enormous data in output, many label, and imbalanced distribution.
+ - 1.1. [Extreme Multi-label Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/xmlc-and-xml-classifier) can solve automatic tagging and recommendation systems of web-scale documents which have enormous data in output, many label, and imbalanced distribution.
  - 1.2. [multi-label text classification with news categories](https://github.com/micsupasun/natural_language_processing/blob/main/multi_label_text_classifation_news/README.md) predict Multi-label text classification with news categories we can predict Multi-label text classification with news categories.
  - 1.3. [Custom Bert NLP for Text Classification](https://github.com/micsupasun/natural_language_processing/blob/main/custom_bert_nlp/custom_bert_2_project/README.md) is custom Bert NLP for work on Text Classification.
  - 1.4. [text classification in Twitter application](https://github.com/micsupasun/natural_language_processing/blob/main/text_classification_coronavirus_tweets/README.md) visualization, text representation, and prediction text classification in the Twitter application about Coronavirus.
@@ -61,7 +61,7 @@ Regarding document classification, my proficiency in applying Latent Dirichlet A
 13. Soundex
  - 13.1. [soundex with flask api](https://github.com/micsupasun/natural_language_processing/blob/main/sound_dex_api-flask/README.md) is clean data and connect website in the real world with Flask and use Thai Soundex to recommend similar words to change the word when data is duplicated, such as ID or Username.
 14. Dialogflow
- - 14.1. [dialogflow in the real world](https://github.com/micsupasun/natural_language_processing/blob/main/dialogflow/README.md) is a chatbot automated with Dialogflow in real projects with bridge stone company
+ - 14.1. [dialogflow in the real world](https://github.com/micsupasun/natural_language_processing/tree/main/dialogflow/bridge_stone) is a chatbot automated with Dialogflow in real projects with bridge stone company
 
 15. Text retrieval system 
  - 15.1. [text_retrieval_system](https://github.com/micsupasun/natural_language_processing/tree/main/text_retrieval_system) is to design a text retrieval system that can recommend movies or shows based on their descriptions. The system will be trained using a dataset of movie/show descriptions and will identify the top three most similar titles to a given input description from a test set.
